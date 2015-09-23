@@ -7,7 +7,7 @@
 A simple utility for generating [xkcd style passwords](http://xkcd.com/936/).
 
 ## Demo
-<https://www.youtube.com/watch?v=RoqrD9ZD0N4&feature=youtu.be>
+<http://screencast.com/t/4j50lE5KciWX>
 
 ## Details for teaching team
 Simple program. I tried to minimize amout of code I have in logic file. I was able to trim it down quite a bit. It is fully functional with only one function.
