@@ -1,0 +1,128 @@
+h1  { 
+  text-align: center;
+  font-family: 'Amatic SC', cursive;
+  color: black;
+  font-size: 48px;
+
+}
+
+h2 {
+  font-family: 'Lucida Bright', Georgia, serif;
+  color: black;
+  font-size: 18px;
+
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a {
+  color: #da4453;
+  text-decoration: none;
+}
+
+.container {
+      text-align:center;
+    }   
+    
+    .password {
+      font-family: 'Amatic SC', cursive;
+      color: black;
+      text-align:center;
+      font-size:3rem;
+      margin-bottom:25px;
+      background-color:white;
+      display:inline-block;
+      border: 1px solid #D4D0D0;
+      border-radius: 25px;
+      padding:15px;
+      font-weight:800;
+    }
+    
+    #number_of_words {
+      width:40px;
+    }
+        
+    .details {
+      margin-top:25px;
+    }
+    
+    .comic {
+      text-align:center;
+      display:block;
+      margin:auto;
+      width:75%;
+      max-width:700px;
+    }
+
+
+
+.navbar-custom .nav li a {
+  color: black;
+  font-size: 18px;
+  font-weight: normal;
+  
+}
+.navbar-custom {
+  border-style: solid;
+    border-width: 1px;
+    border-color: black;
+}
+
+.docs-article p {
+
+  text-align: center;
+  font-family: 'Economica', sans-serif;
+  font-weight: bold;
+  color: black;
+  font-size: 32px;
+  line-height: 40px;
+}
+
+.docs-article h1 {
+
+  font-family: 'Orbitron', sans-serif;
+  color: black;
+  font-size: 42px;
+  text-align: center;
+}
+
+.docs-article img {
+  display: block;
+  margin-left: auto;
+    margin-right: auto;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+
+}
+
+
+.mobile-image{display: none;}
+@media (min-width:992px) {
+    .mobile-image {
+        display:block !important;
+    }
+}
+.mobile-logo{display: none;}
+@media (min-width:994px) {
+    .mobile-logo {
+        display:block !important;
+    }
+}
+.mobile-logofooter{display: none;}
+@media (min-width:992px) {
+    .mobile-logofooter {
+        display:block !important;
+    }
+}
+.mobile-headfooter{display: none;}
+@media (min-width:540px) {
+    .mobile-headfooter {
+        display:block !important;
+    }
+}
+
